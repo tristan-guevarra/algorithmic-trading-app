@@ -1,2 +1,2 @@
 # algorithmic-trading-app
-qt and c++
+qt and c++ / led 7 members
