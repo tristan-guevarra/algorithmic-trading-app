@@ -1,0 +1,55 @@
+Braeden Boyle
+21blab@queensu.ca
+Tester1
+Student
+
+John Smith
+john.smith@email.com
+JSmith123
+Student
+
+Mr. John
+jteacher@email.com
+TeacherTester
+Teacher
+
+Mrs. Boyle
+teacher@email.com
+Hello
+Teacher
+
+Teachin
+teachin@email.com
+teachin
+Teacher
+
+Tristan Guevarra
+test1@test.com
+test1
+Student
+
+Ben Beschta
+ben@email.com
+ben
+Student
+
+Allen Liu
+allen@email.com
+allen
+Student
+
+student
+student2@test.com
+student
+Student
+
+add test
+add@test.com
+test
+Teacher
+
+tristan
+tristan2@test.com
+test
+Student
+
